@@ -9,4 +9,6 @@
     // ? es nullcheck.. si tiene algo hace algo, sino, nada...
     // podes poner or para que haga lo que pones en esa condicion
     console.log( batman[3]?.toUpperCase() || 'puto');
+
+    const nombre: string = 'Mizue';
 })()
