@@ -1,1 +1,0 @@
-const onda: string = 'prueba';
