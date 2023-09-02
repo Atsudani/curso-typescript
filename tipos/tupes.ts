@@ -8,4 +8,6 @@
     const hero3: [string,number] = ['abc',50];
     hero3[0] = 'adfasdfasdf';
     hero3[1] = 5;
+
+    //Es el fin jeje
 })()
