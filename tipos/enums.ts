@@ -9,4 +9,5 @@
     console.log(currentAudio);
 
     console.log(AudioLevel);
+    console.log(AudioLevel);
 })()
