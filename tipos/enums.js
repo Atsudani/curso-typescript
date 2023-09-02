@@ -1,5 +1,6 @@
 "use strict";
 (() => {
+    //enum trabaja con numeros
     let AudioLevel;
     (function (AudioLevel) {
         AudioLevel[AudioLevel["min"] = 0] = "min";
@@ -8,6 +9,5 @@
     })(AudioLevel || (AudioLevel = {}));
     let currentAudio = AudioLevel.medium;
     console.log(currentAudio);
-    console.log(AudioLevel);
     console.log(AudioLevel);
 })();
